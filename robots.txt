@@ -1,4 +1,0 @@
-# STAGING — remove this file when the domain is cut over.
-# Prevents duplicate-content conflict with the live solarforallnola.com.
-User-agent: *
-Disallow: /
